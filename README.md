@@ -1,4 +1,4 @@
-# timerangepicker
+# Time Range Picker
 
 
 DateTime Picker tries to offer you the date and time pickers as shown in IOS, with an easy themable API. 
