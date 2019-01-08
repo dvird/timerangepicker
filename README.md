@@ -10,5 +10,5 @@ Feel free to fork or issue pull requests on github. Issues can be reported on th
 
 
 
-![Time Picker](http://url/to/img.png)
+![Time Picker](https://github.com/dvird/timerangepicker/blob/master/example-image/ios12-iphone-x-clock-bedtime-social-card.jpg?raw=true)
 
