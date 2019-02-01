@@ -45,7 +45,6 @@ Its fully customized
 		app:arc_dash_size="20dp"
 		app:border_color="#3F484F"
 		app:border_thickness="25dp"
-
 		app:thumb_size="28dp"
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintLeft_toLeftOf="parent"
