@@ -1,5 +1,7 @@
 # Time Range Picker
 
+Eartho License
+<a href='https://one.eartho.world/connect?access_id=4J4sl8luuKmJfpQLD2DD'>Click Here To Purchase License</a>
 
 DateTime Picker tries to offer you the date and time pickers as shown in IOS, with an easy themable API. 
 Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
