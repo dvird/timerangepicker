@@ -1,8 +1,8 @@
 package com.timesliderrangepicker.library
 
 import android.content.Context
-import android.support.annotation.DimenRes
 import android.util.DisplayMetrics
+import androidx.annotation.DimenRes
 
 const val LDPI: Int = DisplayMetrics.DENSITY_LOW
 const val MDPI: Int = DisplayMetrics.DENSITY_MEDIUM
