@@ -1,8 +1,12 @@
 # Time Range Picker
 
 Eartho License
-<a href='https://one.eartho.world/connect?access_id=DIH1cmqSEXZTtZGd8Xpb' target='_blank'>Click Here To Purchase License</a>
-
+<br /><br />
+<a href='https://one.eartho.world/connect?access_id=DIH1cmqSEXZTtZGd8Xpb' target='_blank'>
+ <img src="https://github.com/dvird/timerangepicker/blob/master/images/Button.png?raw=true" alt="Eartho" width="300px">
+</a>
+<br />
+<br /><br /><br /><br />
 DateTime Picker tries to offer you the date and time pickers as shown in IOS, with an easy themable API. 
 Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
 Feel free to fork or issue pull requests on github. Issues can be reported on the github issue tracker.
